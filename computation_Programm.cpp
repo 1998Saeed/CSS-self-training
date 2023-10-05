@@ -39,5 +39,5 @@ int main ()
         else
             cout<<p[i].name<<"   paid "<<p[i].ppayds<<"   his computation is -"<<avg-p[i].ppayds<<endl;
     }
-    return 0;
+    return 0;
 }
